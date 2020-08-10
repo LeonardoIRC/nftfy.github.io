@@ -1,32 +1,32 @@
 {
   "files": {
-    "main.css": "/dapp/static/css/main.10d3f636.chunk.css",
-    "main.js": "/dapp/static/js/main.20f724d0.chunk.js",
-    "main.js.map": "/dapp/static/js/main.20f724d0.chunk.js.map",
-    "runtime-main.js": "/dapp/static/js/runtime-main.6dfad8fc.js",
-    "runtime-main.js.map": "/dapp/static/js/runtime-main.6dfad8fc.js.map",
-    "static/css/2.c8fdb744.chunk.css": "/dapp/static/css/2.c8fdb744.chunk.css",
-    "static/js/2.59eec434.chunk.js": "/dapp/static/js/2.59eec434.chunk.js",
-    "static/js/2.59eec434.chunk.js.map": "/dapp/static/js/2.59eec434.chunk.js.map",
+    "main.css": "/dapp/static/css/main.92adc1b8.chunk.css",
+    "main.js": "/dapp/static/js/main.3b48ca44.chunk.js",
+    "main.js.map": "/dapp/static/js/main.3b48ca44.chunk.js.map",
+    "runtime-main.js": "/dapp/static/js/runtime-main.7546de94.js",
+    "runtime-main.js.map": "/dapp/static/js/runtime-main.7546de94.js.map",
+    "static/css/2.ed7b5974.chunk.css": "/dapp/static/css/2.ed7b5974.chunk.css",
+    "static/js/2.6e82c82b.chunk.js": "/dapp/static/js/2.6e82c82b.chunk.js",
+    "static/js/2.6e82c82b.chunk.js.map": "/dapp/static/js/2.6e82c82b.chunk.js.map",
     "index.html": "/dapp/index.html",
-    "precache-manifest.f7a21551856498e8bbab6e8f62bd87dd.js": "/dapp/precache-manifest.f7a21551856498e8bbab6e8f62bd87dd.js",
+    "precache-manifest.af2f69b4107d88be71f0550b5a2959cf.js": "/dapp/precache-manifest.af2f69b4107d88be71f0550b5a2959cf.js",
     "service-worker.js": "/dapp/service-worker.js",
-    "static/css/2.c8fdb744.chunk.css.map": "/dapp/static/css/2.c8fdb744.chunk.css.map",
-    "static/css/main.10d3f636.chunk.css.map": "/dapp/static/css/main.10d3f636.chunk.css.map",
-    "static/js/2.59eec434.chunk.js.LICENSE.txt": "/dapp/static/js/2.59eec434.chunk.js.LICENSE.txt",
+    "static/css/2.ed7b5974.chunk.css.map": "/dapp/static/css/2.ed7b5974.chunk.css.map",
+    "static/css/main.92adc1b8.chunk.css.map": "/dapp/static/css/main.92adc1b8.chunk.css.map",
+    "static/js/2.6e82c82b.chunk.js.LICENSE.txt": "/dapp/static/js/2.6e82c82b.chunk.js.LICENSE.txt",
     "static/media/ft-active.svg": "/dapp/static/media/ft-active.2cab6182.svg",
     "static/media/ft.svg": "/dapp/static/media/ft.98b107db.svg",
-    "static/media/metamask.svg": "/dapp/static/media/metamask.433dec51.svg",
+    "static/media/metamask.svg": "/dapp/static/media/metamask.0eb1e13c.svg",
     "static/media/nft-active.svg": "/dapp/static/media/nft-active.65a241de.svg",
     "static/media/nft.svg": "/dapp/static/media/nft.20bf0fe5.svg",
     "static/media/nftfy.svg": "/dapp/static/media/nftfy.2ed2b396.svg",
-    "static/media/portis.svg": "/dapp/static/media/portis.80e60fbb.svg"
+    "static/media/portis.svg": "/dapp/static/media/portis.3b1f54f7.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.6dfad8fc.js",
-    "static/css/2.c8fdb744.chunk.css",
-    "static/js/2.59eec434.chunk.js",
-    "static/css/main.10d3f636.chunk.css",
-    "static/js/main.20f724d0.chunk.js"
+    "static/js/runtime-main.7546de94.js",
+    "static/css/2.ed7b5974.chunk.css",
+    "static/js/2.6e82c82b.chunk.js",
+    "static/css/main.92adc1b8.chunk.css",
+    "static/js/main.3b48ca44.chunk.js"
   ]
 }
